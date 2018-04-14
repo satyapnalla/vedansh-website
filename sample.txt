@@ -1,0 +1,4 @@
+Bitbucket is the best way to build and ship software.
+Powerful collaboration, code review, and code management for open source and private projects. 
+
+Here is a sample text added with textedit.
